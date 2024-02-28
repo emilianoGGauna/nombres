@@ -77,7 +77,6 @@ Beatriz
 Perla
 Liliana
 Brenda
-Del
 Rocio
 Giselle
 Lorena
@@ -86,7 +85,6 @@ Honorina
 Alma
 Delfina
 Yenisei
-Ma
 Beatriz
 Lizbet
 Flor
@@ -94,7 +92,6 @@ Yadira
 Danila
 Xitlalitl
 Celia
-Del
 Carmen
 Ana
 Daniela
@@ -130,7 +127,6 @@ Floridalia
 Mildred
 Guadalupe
 Maria
-Del
 Refugio
 Elia
 Dolores
@@ -154,7 +150,6 @@ Ma
 Sofia
 Alejandra
 Anatolia
-Ma
 Felix
 Mariana
 Montserrat
@@ -167,7 +162,6 @@ Eleuteria
 Rosa
 Emelia
 Esperanza
-Del
 Carmen
 Diana
 Irene
@@ -179,10 +173,8 @@ Sonia
 Juvencia
 Angelica
 Leticia
-Ma
 Salud
 Lidia
-Del
 Carmen
 Edith
 Maribel
@@ -271,7 +263,6 @@ Elsa
 Lorena
 Beatriz
 Adrian
-Ma
 Guillermina
 Adriana
 Elizabeth
@@ -289,7 +280,6 @@ Luz
 Elva
 Claudia
 Patricia
-A
 Liliana
 Angelica
 Miriam
